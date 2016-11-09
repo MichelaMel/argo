@@ -1,0 +1,163 @@
+
+
+body {
+	background-image: url(sfondorettangoli.jpg);
+	background-size: cover ; 
+	width: 100%;
+
+}
+
+.logo__container { 
+	width: 200px;
+	height: 200px;
+	display: block;
+	background: #ff9933;
+	margin-left: 6%;
+	margin-top: 0px;
+	padding: 35px 5px;
+	
+	
+}
+.logo {
+	text-align: center;
+	color: white;
+	font-size: 38px;
+	margin-top: 30px;
+}
+
+
+.box__container{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.box {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-left: 0px;
+	margin-right: 0px;
+	float: left;
+	text-align: center;
+
+}
+.box p {
+	margin-top: 20px;
+	color: white;
+
+}
+
+.box:nth-child(3) {
+	background: #ff471a;
+	padding: 50px 20px;
+}
+
+
+.box:nth-child(6) {
+	background-color: #ff471a;	
+	padding: 50px 20px;
+}
+.box:nth-child(7) {
+	background-color: #ff9933;
+	padding: 50px 20px;
+}
+
+.box:nth-child(10) {
+	background: #ff9933 ;
+	padding: 50px 20px;
+}
+
+.box:nth-child(15){
+	background:  #ff471a;
+	padding: 50px 20px;
+
+}
+
+.box__txt {
+	display: inline-block;
+	float: left;
+	width: 600px;
+	height: 200px;
+	background: transparent; 
+	padding: 2%;
+
+}
+.img1 {
+	background-image: url(design1.jpg); 
+	background-size: cover;
+	background-position: center;: 
+	width: 200px;
+	height: 200px;
+}
+
+.img2 {
+	background-image: url(design2.jpg); 
+	background-size: cover;
+	background-position: center;: 
+	width: 200px;
+	height: 200px;
+}
+.img3 {
+	background-image: url(design3.jpg); 
+	background-size: cover;
+	background-position: center;: 
+	width: 200px;
+	height: 200px;
+}
+
+
+
+.img4 {
+	background-image: url(design4.jpg); 
+	background-size: cover;
+	background-position: center;: 
+	width: 200px;
+	height: 200px;
+}
+.img6 {
+	background-image: url(design6.jpg); 
+	background-size: cover;
+	background-position: center;: 
+	width: 200px;
+	height: 200px;
+}
+
+
+.img5 {
+	background-image: url(design5.jpg); 
+	background-size: cover;
+	background-position: center;: 
+	width: 200px;
+	height: 200px;
+}
+
+.img {
+	width: 200px;
+	height: 200px;
+}
+
+.box__txt h2 {
+	color: white;
+	text-align: right;
+	font-size: 21px;
+	font-weight: bold;
+
+
+}
+.box__txt p {
+	font-size: 11px;
+	color: white;
+	text-align: right;
+}
+	
+
+.box:hover {
+   background-color: transparent;
+} 
+
+	
+
+
+
+
+
